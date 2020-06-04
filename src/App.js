@@ -4,8 +4,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        <h2>Hello world New</h2>
+    <div>
+      <div className="App">
+        <h2>Hello world!</h2>
+      </div>
+
+      <footer>
+        <p>React App Bootcamp 2020, Copyright &copy; Muhammad Saleem Raza</p>
+      </footer>
     </div>
   );
 }
